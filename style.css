@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(48, 48, 48);
+    color: rgb(239, 235, 228);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.timer{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px;
+}
+    #dias{
+        font-size: 40px;
+    }
+    #horas{
+        font-size: 40px;
+    }
+    #minutos{
+        font-size: 40px;
+    }
+    #segundos{
+        font-size: 40px;
+    }
